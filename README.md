@@ -7,3 +7,6 @@
 - [ ] [dentaku](https://github.com/prmiguel/dentaku)
 - [ ] [PWCalculator](https://github.com/adrianjost/PWCalculator)
 - [ ] [calculator](https://github.com/prmiguel/calculator)
+- [ ] [Simple-Calculator-Web-app](https://github.com/prmiguel/Simple-Calculator-Web-app)
+- [ ] [react-native-nw-react-calculator](https://github.com/prmiguel/react-native-nw-react-calculator)
+- [ ] [calculator](https://github.com/prmiguel/calculator-1)
